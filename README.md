@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @looremagus
+- 👀 I’m interested in S-100 and S-101 standards, conversations and testing
+- 🌱 I’m currently learning how to convert S-57 to S-101
+- 📫 How to reach me - via email loore.magus@transpordiamet.ee
